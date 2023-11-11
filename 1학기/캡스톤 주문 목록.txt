@@ -1,0 +1,12 @@
+배터리: 샤오미 5세대 보조배터리 10000mAh C타입 5핀 대용량 고속충전 18W / 밸류엠 100W PPS 초고속 충전 PD 메탈 보조배터리 20000mAh 멀티단자 + 60W C to C 케이블 세트( https://www.coupang.com/vp/products/6636578818?itemId=15153660815&vendorItemId=82375156036&src=1042503&spec=10304991&addtag=400&ctag=6636578818&lptag=10304991I15153660815&itime=20230401135312&pageType=PRODUCT&pageValue=6636578818&wPcid=16803241852091150512046&wRef=&wTime=20230401135312&redirect=landing&gclid=EAIaIQobChMIt9WUzvGH_gIVgbyWCh0QcQ0nEAQYASABEgJrhPD_BwE&mcid=cfcc4bbf3fbd4f8a9a1dc713d530e1a3&campaignid=18860235808&adgroupid=&isAddedCart= )
+태양광: Solar Panel( https://www.eleparts.co.kr/goods/view?no=7477881 )
+[SMG ] 태양 전지 판 5V 100mA 95 x 42 mm [SZH-SPB003] (https://www.devicemart.co.kr/goods/view?no=12372305)
+반사경:
+초음파: [SMG-A] HC-SR04P 3.3V/5V 호환 초음파 거리센서 모듈 [SZH-USBC-004]( https://www.devicemart.co.kr/goods/view?no=1323062 )
+압력센서: [마블덱스] 압력센서 FSR, RA30P ( https://www.devicemart.co.kr/goods/view?no=1313603 )
+아두이노: 아두이노 우노 R3 초보자 키트 스텝 1 (http://lkembedded.co.kr/goods/goods_view.php?goodsNo=856&inflow=naver)
+LED: 논네온 방수 LED바 12V 면발광 실리콘 플렉시블 줄LED 스트립 5미터 N W( https://smartstore.naver.com/ledbar/products/4741833993?NaPm=ct%3Dlfxjqe6g%7Cci%3Dc5d42d6e8454af94dc0fe1c491142407cd228b9b%7Ctr%3Dslsl%7Csn%3D436353%7Chk%3D2ccc63fb7c96412d4ec1d79143cf636251432932 )
+실리콘:무초산 글레이징용 실리콘 실란트 SR-302 (https://www.coupang.com/vp/products/6520025800?itemId=14441254781&vendorItemId=85058829063&src=1042503&spec=70304777&addtag=400&ctag=6520025800&lptag=I14441254781V85058829063A358725674&itime=20230401145056&pageType=PRODUCT&pageValue=6520025800&wPcid=16803241852091150512046&wRef=&wTime=20230401145056&redirect=landing&AdNodeId=358725674&gclid=EAIaIQobChMIq_Wuuf6H_gIVGFZgCh0KNQWgEAQYBCABEgL9rPD_BwE&mcid=c322248b28264b7a8f943d28c6e692c2&campaignid=19270520533&adgroupid=144846767655&isAddedCart=)
+실리콘 건: [다이소]실리콘건-57433 (  https://shopping.interpark.com/product/productInfo.do?prdNo=4803756390 )
+삼각대: 호루스벤누 삼각대 ( https://www.coupang.com/vp/products/6673347285?itemId=15362047850&vendorItemId=82582243562&src=1032034&spec=10305201&addtag=400&ctag=6673347285&lptag=I15362047850&itime=20230401145933&pageType=PRODUCT&pageValue=6673347285&wPcid=16803241852091150512046&wRef=prod.danawa.com&wTime=20230401145933&redirect=landing&mcid=59f0b9dc12884801b5c6d42b181d1c3d&isAddedCart= )
+목봉 : 페인트인포 목봉 30 x 30 x 890 mm ( https://www.coupang.com/vp/products/2034843531?itemId=3460243792&vendorItemId=71446614644&q=%EB%AA%A9%EB%B4%89&itemsCount=36&searchId=1c98902bf4fe40afbe2a3a6ac8afcac7&rank=3&isAddedCart= )
